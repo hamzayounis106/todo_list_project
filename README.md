@@ -5,7 +5,6 @@ This is a simple Todo List project built with React JS.
 ## Features
 
 - Add new tasks to the list
-- Mark tasks as completed
 - Delete tasks from the list
 
 ## Installation
